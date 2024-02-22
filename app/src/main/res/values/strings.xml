@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Giải Phương Trình Bậc 2</string>
+    <string name="Num_1">Num a</string>
+    <string name="Num_2">Num b</string>
+    <string name="Num_3">Num c</string>
+    <string name="Solve">Solve</string>
+    <string name="textview">TextView</string>
+</resources>
